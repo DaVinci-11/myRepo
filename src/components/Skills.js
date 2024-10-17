@@ -4,7 +4,7 @@ import { Container, ListGroup } from 'react-bootstrap';
 const Skills = () => {
   return (
     <Container>
-      <h1>My Skills</h1>
+      <h1 className="custom-violet">My Skills</h1>
       <ListGroup>
         <ListGroup.Item>JavaScript</ListGroup.Item>
         <ListGroup.Item>Communication</ListGroup.Item>

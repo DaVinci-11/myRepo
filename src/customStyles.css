@@ -1,0 +1,32 @@
+/* Overriding Bootstrap styles */
+.btn-primary {
+    background-color: #ff5733; /* Change Bootstrap primary button color */
+    border-color: #ff5733;
+  }
+  
+  /* Custom styles */
+  .custom-heading {
+    color: #007bff;
+    text-align: center;
+  }
+  
+  .custom-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  .custom-violet {
+    color: rgb(82, 16, 82);
+  }
+  /* For the entire page */
+body {
+  background-color: rgb(247, 244, 97); /* Change to any color you prefer */
+}
+
+/* For a specific container */
+.custom-bg {
+  background-color: lightgray; /* Example color for the background */
+  padding: 20px;
+  border-radius: 10px; /* Optional for rounded corners */
+}
+
+    
