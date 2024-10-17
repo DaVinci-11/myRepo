@@ -21,8 +21,8 @@ const Contact = () => {
   }
 
   return (
-    <Container>
-      <h1>Contact Me</h1>
+    <Container className="custom-bg">
+      <h1 className="custom-violet">Contact Me</h1>
       <Form onSubmit={handleSubmit}>
         <Form.Group controlId="formName">
           <Form.Label>Name</Form.Label>
