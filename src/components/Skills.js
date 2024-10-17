@@ -6,10 +6,10 @@ const Skills = () => {
     <Container>
       <h1 className="custom-violet">My Skills</h1>
       <ListGroup>
-        <ListGroup.Item>JavaScript</ListGroup.Item>
-        <ListGroup.Item>Communication</ListGroup.Item>
-        <ListGroup.Item>HTML & CSS</ListGroup.Item>
-        <ListGroup.Item>Teamwork</ListGroup.Item>
+        <ListGroup.Item>1.JavaScript</ListGroup.Item>
+        <ListGroup.Item>2.Communication</ListGroup.Item>
+        <ListGroup.Item>3.HTML & CSS</ListGroup.Item>
+        <ListGroup.Item>4.Teamwork</ListGroup.Item>
       </ListGroup>
     </Container>
   );
