@@ -6,7 +6,7 @@ const Home = () => {
     <Container className="mt-5">
       <Row>
         <Col>
-          <h1>Welcome to Vince Adesa's Profile!</h1>
+          <h1 className= "text primary"> Welcome to Vince Adesa's Profile!</h1>
           <p>A third-year student pursuing a Bachelor of Science in Computer Science (BSCS).</p>
           <Button variant="primary">Learn More</Button>
         </Col>

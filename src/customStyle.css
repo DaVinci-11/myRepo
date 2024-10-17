@@ -1,0 +1,17 @@
+/* Overriding Bootstrap styles */
+.btn-primary {
+    background-color: #ff5733; /* Change Bootstrap primary button color */
+    border-color: #ff5733;
+  }
+  
+  /* Custom styles */
+  .custom-heading {
+    color: #007bff;
+    text-align: center;
+  }
+  
+  .custom-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
